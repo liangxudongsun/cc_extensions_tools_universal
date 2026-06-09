@@ -46,11 +46,6 @@
                     "bundlePath"
                 ]
             }
-        },
-        "asset-db": {
-            "mount": {
-                "path": "./assets"
-            }
         }
     },
     "inspector": {
